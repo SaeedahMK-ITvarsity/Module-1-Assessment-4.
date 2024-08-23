@@ -1,0 +1,24 @@
+th{
+    font-family: Helvetica, sans-serif;
+    color: #7B466A;  
+}
+
+h3{
+    font-family: Helvetica, sans-serif;
+    color: #7B466A; 
+    background-color: : #BFACC8;
+}
+tr{
+    font-family: Helvetica, sans-serif;
+    background-color: #BFACC8;
+}
+
+td{
+    color: #ffffff;
+}
+
+table{
+        border-collapse: collapse;
+        border-color: #7B466A;
+        background-color: #BFACC8;
+}
